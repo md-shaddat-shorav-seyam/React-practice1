@@ -18,7 +18,7 @@ function App() {
     <Nav/>
 
 
-<Sec/>
+    <Sec/>
 
       
 
